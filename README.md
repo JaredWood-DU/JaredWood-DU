@@ -47,6 +47,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Technical Skills - Languages and Tools -->
+<!--- For reference later if I care to update it
 <head>
     <h3 align="left">Languages and Tools:</h3>
 </head>
@@ -83,7 +84,7 @@ This README.md file is my GitHub profile
     </p>
     <br>
 </body>
-
+-->
 
 <!--- GitHub Stats Streak Languages -->
 <body>
