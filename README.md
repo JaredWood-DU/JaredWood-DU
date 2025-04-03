@@ -38,6 +38,12 @@ This README.md file is my GitHub profile
 
 
 
+<!--- Image -->
+![alt text](https://github.com/JaredWood-DU/JaredWood-DU/blob/e2323d42b36aac284707fc9abbe4d55a333de032/meme.png)
+
+
+
+
 <!--- GitHub Repositories -->
 <body>
     <div>
